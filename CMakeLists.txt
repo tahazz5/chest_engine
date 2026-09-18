@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(chest_engine VERSION 0.5.0 LANGUAGES CXX)
+project(chess_engine VERSION 0.5.0 LANGUAGES CXX)
 
 add_library(chess_core STATIC src/board/position.cpp src/board/attacks.cpp src/movegen/movegen.cpp)
 target_include_directories(chess_core PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/src)
