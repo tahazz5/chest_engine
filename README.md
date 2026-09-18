@@ -1,5 +1,7 @@
 # Chess Engine — C++20
 
+[![C++ CI](https://github.com/tahazz5/chest_engine/actions/workflows/ci.yml/badge.svg)](https://github.com/tahazz5/chest_engine/actions/workflows/ci.yml)
+
 Moteur d’échecs pédagogique en C++20, jouable dans le navigateur ou le terminal
 contre un adversaire simple.
 
