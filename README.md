@@ -1,4 +1,4 @@
-# Chest Engine — C++20
+# Chess Engine — C++20
 
 Moteur d’échecs pédagogique en C++20, jouable dans le navigateur ou le terminal
 contre un adversaire simple.
